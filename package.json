@@ -33,6 +33,7 @@
     ]
   },
   "devDependencies": {
+    "gzip-webpack-plugin": "^1.1.2",
     "less": "^3.11.1"
   }
 }
